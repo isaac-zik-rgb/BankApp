@@ -1,0 +1,11 @@
+Account Reciept
+Sender Name: N/A N/A
+Bank Name: N/A
+Account Number: 100824534
+Initial Balance: 50000.00
+Amount: 30000
+Total Bal: 80000.00
+Transation Type: Deposit
+Transation time: Sun Jun  4 18:19:46 2023
+
+.....................
