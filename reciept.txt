@@ -1,11 +1,11 @@
 Account Reciept
-Sender Name: N/A N/A
-Bank Name: N/A
-Account Number: 100824534
+Sender Name: isaac castro
+Bank Name: Access
+Account Number: 2147483647
 Initial Balance: 50000.00
-Amount: 30000
-Total Bal: 80000.00
-Transation Type: Deposit
-Transation time: Sun Jun  4 18:19:46 2023
+Amount: 40000
+Total Bal: 10000.00
+Transation Type: Transfer
+Transation time: Thu Jun 15 18:12:25 2023
 
 .....................
