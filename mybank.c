@@ -14,6 +14,7 @@ int main(void)
       if (option == 1)
 	{
 	  /** call log-in functions*/
+	  login("");
 	  break;
 	}
       if (option == 0)
